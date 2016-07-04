@@ -1,0 +1,1 @@
+include ':app', ':Pubnub-Android-3.7.9', ':Pubnub-Android-Debug-3.7.9'
